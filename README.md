@@ -13,7 +13,7 @@ Este proyecto es un sistema básico de gestión de inventario desarrollado con L
 
 1. **Clonar el Repositorio:**
    ```bash
-   git clone https://tu-repositorio.git
+ 
 Usa el código con precaución.
 content_copy
 Instalar Dependencias de PHP (Composer):
